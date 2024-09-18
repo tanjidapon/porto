@@ -1,0 +1,86 @@
+.main-nav {
+	background: transparent;
+}
+
+.main-nav a {
+	color: #fff;
+	font-size: 20px;
+	font-weight: 600;
+}
+.main-nav ul li {
+	padding-left: 17px;
+}
+/* slide 1 :start */
+.item1{
+  background: url(../img/home/slide-one-page-1-1.jpg);
+  background-size: cover;
+  background-position:center;
+  width: 100%;
+  height: 600px;
+  background-color: #35383d;
+  opacity: .9;
+  position: relative;
+  z-index: 1;
+}
+.item1 h2{
+  color: #fff;
+  text-align: center;
+  position: relative;
+  top: 50%;
+  left: 0;
+  z-index: 99;
+
+}
+/* slide 1 :end */
+
+/* slide 2 :start */
+.item2{
+  background: url(../img/home/slide-bg-2.jpg);
+  background-size: cover;
+  background-position:center;
+  position: relative;
+  width: 100%;
+  height: 600px;
+  background-color: #35383d;
+  opacity: .9;
+  z-index: 1;
+}
+.item2 h2{
+  color: #fff;
+  text-align: center;
+  position: relative;
+  top: 50%;
+  left: 0;
+  z-index: 99;}
+  /* slide 2 :end */
+
+  /* slide 3 :start */
+.item3{
+  background: url(../img/home/slide-bg-6.jpg);
+  background-size: cover;
+  background-position:center;
+  position: relative;
+  width: 100%;
+  height: 600px;
+  background-color: #35383d;
+  opacity: .9;
+  z-index: 1;
+}
+.item3 h2{
+  color: #fff;
+  text-align: center;
+  position: relative;
+  top: 50%;
+  left: 0;
+  z-index: 99;
+}
+/* slide 3 :end */
+/* services part :start */
+.my-5 {
+	background: #0188cc;
+	color: #fff;
+	font-weight: 600;
+}
+
+
+/* services part :end */
